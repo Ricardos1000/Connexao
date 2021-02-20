@@ -58,10 +58,10 @@
         $mailer->Charset = "UTF-8";
 
         //Define o usuário remetente;
-        $mailer->Username = 'ricardo@connexaoinformatica.com.br';
+        $mailer->Username = 'teste@connexaoinformatica.com.br';
 
         //Define a senha do usuário remetente
-        $mailer->Password = 'Rid@488306s';
+        $mailer->Password = 'Fit@05970**';
 
         //Define a porta de saída usada no envio do email
         $mailer->Port = "465";
