@@ -1,5 +1,4 @@
 <?php
-    include_once "./classe/enviar.php";
     echo'
      <!DOCTYPE html>
      	<html lang="pt-br">
@@ -26,3 +25,4 @@
         </body>
      	</html>
     ';
+   ?>
